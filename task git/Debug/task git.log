@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Rahmaaa\source\repos\task git\task git\Source.cpp(7,6): error C2374: 'y': redefinition; multiple initialization
+C:\Users\Rahmaaa\source\repos\task git\task git\Source.cpp(6): message : see declaration of 'y'
+C:\Users\Rahmaaa\source\repos\task git\task git\Source.cpp(9,6): error C2374: 'x': redefinition; multiple initialization
+C:\Users\Rahmaaa\source\repos\task git\task git\Source.cpp(5): message : see declaration of 'x'
+C:\Users\Rahmaaa\source\repos\task git\task git\Source.cpp(10,12): error C2088: '<<': illegal for class
